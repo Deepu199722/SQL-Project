@@ -1,12 +1,16 @@
 # SQL-Project
-project students is a database project developed using MySQL. It stores and manages student information, course details, and student enrollments.
+Project Students is a database project developed using MySQL. It stores and manages student information, course details, and student enrollments.
 
 Objectives
 
 Store student details.
+
 Maintain course information and course fees.
+
 Manage student enrollments.
+
 Track enrollment status and fees paid.
+
 Retrieve information using SQL queries.
 
 Database Name
